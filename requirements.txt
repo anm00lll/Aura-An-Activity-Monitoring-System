@@ -1,0 +1,14 @@
+pygetwindow==0.0.9
+pynput==1.7.7
+matplotlib==3.9.2
+plyer==2.1.0
+
+# Note: tkinter is included with the standard Python installer on Windows
+# and is not installed via pip. Ensure your Python installation includes Tk.
+
+# Additional dependencies for advanced activity tracking (Windows)
+psutil==5.9.8
+mss==9.0.1
+Pillow==10.4.0
+pywin32==311
+pystray==0.19.5

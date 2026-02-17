@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Build, logs, tests
+dist/
+build/
+.pytest_cache/
+.coverage
+coverage.xml
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Misc
+*.log
+*.tmp# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Matplotlib cache
+.matplotlib/
+
+# Pytest/mypy caches
+.pytest_cache/
+.mypy_cache/
+
+# Local app data
+.aura_prefs.json
+.aura_distractions.json
